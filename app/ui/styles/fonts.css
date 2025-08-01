@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'YourFont';
+  src: url('/fonts/D-DIN-PRO-600-Bold.otf') format('woff2'),
+       url('/fonts/D-DIN-PRO-800-ExtraBold.otf') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
